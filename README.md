@@ -4,6 +4,7 @@
 Explainability is crucial for enhancing trust, transparency, and adoption of deep learning models, especially in critical domains such as healthcare, finance, and autonomous systems. This project aims to develop techniques and tools to improve the interpretability of deep learning models, enabling stakeholders to understand model decisions and predictions.
 
 ## 2. Objectives:
+
 1. Investigate and implement state-of-the-art techniques for explaining deep learning models, including feature attribution, saliency maps, and model-agnostic approaches.
 2. Develop user-friendly tools and visualizations to facilitate interpretation of deep learning model predictions.
 3. Evaluate the effectiveness and usability of explainability techniques across different domains and applications.
